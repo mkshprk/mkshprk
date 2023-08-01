@@ -1,14 +1,27 @@
-- 👋 Hi, I’m @mkshprk
-- 👀 I’m interested in **QA automation** and **Web Development**
-- 🌱 I’m currently learning **Web Development**
-- 💞️ I’m looking to collaborate on Web developement and QA automation tools
+# 👋 Hi, I’m ***Mukesh Pareek***
+- 👀 I’m a **Senior QA Automation Engineer** by profession
+- I'm studying **Web development** right now.
+- I’m looking to collaborate on **Web developement** and **QA automation** topics
 
 <details>
-  <summary>📫 How to reach me</summary>
+  <summary>📫 To Reach me</summary>
 
-  - [Twitter](https://twitter.com/mkshprk)
-  - [LinkedIn](https://www.linkedin.com/in/mukesh-pareek/)
+  -    [***Twitter***](https://twitter.com/mkshprk)
+  - [***LinkedIn***](https://www.linkedin.com/in/mukesh-pareek/)
 </details>
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mkshprk&show_icons=true&theme=tokyonight" />
+<!--<img width="48%" src="https://github-readme—streak—stats.herokuapp.com/?user=mkshprk&theme=tokyonight" />-->
+</p>
+
+<!--
+Github Action link
+  https://github.com/marketplace/actions/github-activity-readme
+Readme status
+  https://github.com/anuraghazra/github-readme-stats#hiding-individual-stats
+
+-->
 
 <!---
 mkshprk/mkshprk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
